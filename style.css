@@ -39,8 +39,9 @@ a {
     padding: 10px;
 }
 
-#demo {
-    margin-bottom: -10px;
+#demo img {
+    margin-top: -10px;
+    margin-bottom: -50px;
 }
 
 p {
