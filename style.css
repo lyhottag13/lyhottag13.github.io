@@ -17,24 +17,30 @@ a {
     text-align: center;
 }
 
-#russian-roulette {
+#links div {
     border: solid black;
     border-radius: 30px;
     margin: 0 auto;
     width: 200px;
-    padding: 10px;
-    padding-bottom: 0px;
     transition: all 0.05s ease;
 }
 
-#russian-roulette:hover {
+#links div:hover {
     background-color: rgb(212, 212, 255);
     filter: sepia(500%) hue-rotate(30deg);
     box-shadow: 5px 5px 10px black;
 }
 
-#russian-roulette img {
+#links img {
     filter: none;
+}
+
+#russian-roulette {
+    padding: 10px;
+}
+
+#demo {
+    margin-bottom: -10px;
 }
 
 p {
