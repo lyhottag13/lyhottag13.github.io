@@ -58,6 +58,12 @@ a {
     padding-bottom: -10px;
 }
 
+#workout img {
+    width: 270px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
